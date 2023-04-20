@@ -8,7 +8,10 @@
   --color-verde: #49d0b0;
   --color-bgli: #61e1ca;
 }
+body {
 
+    background-color: #49d0b0;
+}
 .content {
   padding: 1rem;
 }
